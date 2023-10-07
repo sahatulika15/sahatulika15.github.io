@@ -4905,7 +4905,7 @@ img { border-radius: 5%; }
 
 .btn { margin-top: 5px; margin-bottom: 5px; }
 
-.container-fluid, .container-sm, .container-md, .container-lg, .container-xl { max-width: 800px; }
+.container-fluid, .container-sm, .container-md, .container-lg, .container-xl { max-width: 1200px; }
 
 .container-footer { margin-right: auto; margin-left: auto; max-width: 800px; padding-left: 20px; padding-right: 20px; }
 
